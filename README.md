@@ -13,7 +13,7 @@ Solution :
 
 Extras :
 - finding the right candidate for recuirters 
-- joining community of different technology
+- joining community of different technologies
 - showcasing the projects
 
 Revenue Model : 
